@@ -1,4 +1,4 @@
-👋 Hi, I’m @star2088
+👋 Hi!
 
 👀 I’m interested in cutting-edge web and mobile technologies, AI, and building scalable systems.
 
